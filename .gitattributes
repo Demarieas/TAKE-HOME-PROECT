@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+order_system.py
+test_order_system_unittest.py
+test_order_system_pytest.py
+README.md
+
